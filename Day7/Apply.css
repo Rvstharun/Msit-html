@@ -1,0 +1,25 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    max-width: 650px;
+    margin: 0 auto;
+    font-size: medium;
+   
+}
+.form {
+    padding: 100%;
+    background-color:antiquewhite;
+    padding: 30px;
+    color: black;
+    
+}
+#sop{
+    max-width: 650px;
+    
+
+}
+
+
+
+
+
+
